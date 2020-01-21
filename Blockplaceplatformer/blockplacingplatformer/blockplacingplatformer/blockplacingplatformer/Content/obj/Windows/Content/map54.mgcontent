@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/hamza/Own Games/Custom/C#/Completed Projects/2019/Blockplaceplatformer/blockplacingplatformer/blockplacingplatformer/Content/map54.plf</SourceFile>
+  <SourceTime>2020-01-20T15:37:15.6565917+00:00</SourceTime>
+  <DestFile>C:/Users/hamza/Own Games/Custom/C#/Completed Projects/2019/Blockplaceplatformer/blockplacingplatformer/blockplacingplatformer/Content/bin/Windows/Content/map54.xnb</DestFile>
+  <DestTime>2020-01-20T15:38:31.7160024+00:00</DestTime>
+  <Importer>importer</Importer>
+  <ImporterTime>2019-08-28T14:26:15.7995774+01:00</ImporterTime>
+  <Processor>processor</Processor>
+  <ProcessorTime>2019-08-28T14:26:15.7995774+01:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
